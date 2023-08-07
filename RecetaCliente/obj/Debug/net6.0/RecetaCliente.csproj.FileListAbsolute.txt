@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.AssemblyInfo.cs
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\bin\Debug\net6.0\RecetaCliente.deps.json
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\bin\Debug\net6.0\RecetaCliente.dll
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\bin\Debug\net6.0\RecetaCliente.pdb
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.dll
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\refint\RecetaCliente.dll
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\RecetaCliente.pdb
+C:\Users\usuario\Documents\UTN 2021\Programacion II\API_PROGRAII_FINAL\RecetaCliente\obj\Debug\net6.0\ref\RecetaCliente.dll
